@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CY39183
-- 👀 I’m interested in ...MASTERING MUSIC
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m ABDUL SUBHAN
+- 👀 I’m interested in ...CODING & MASTERING MUSIC
+- 🌱 I’m currently learning ...C++, JAVA , MYSQL ,PYTHON.
+- 💞️ I’m looking to collaborate on ...TWITTER.
 - 📫 How to reach me ..cyberworriorchico@gmail.com
 
 
